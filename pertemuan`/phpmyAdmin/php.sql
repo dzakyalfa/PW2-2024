@@ -1,0 +1,2 @@
+DROP DATABASE : Menghapus DATABASE
+SHOW DATABASE : Menampilkan Data 
